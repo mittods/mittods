@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Software+Architecture+%26+Applied+AI;Competitive+Programmer;Teaching+Assistant+%40+UACh" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/martinmazadelgado/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
