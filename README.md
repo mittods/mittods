@@ -111,7 +111,3 @@ Asistente conversacional orientado a la ciudad de Valdivia, desarrollado en equi
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittods&layout=compact&theme=dark&hide_border=false&border_radius=5" height="150" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mittods&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" />
-</div>
