@@ -24,9 +24,9 @@ Coursework and team projects from my degree at UACh.
 
 | Project | Context | What it is |
 |---|---|---|
-| [Floyd-Warshall-Ray](https://github.com/mittods/Floyd-Warshall-Ray) | High-Performance Computing course (CONFIRMAR) | Parallel Floyd–Warshall with Ray: performance and scalability study on the Patagón HPC cluster (CPU/GPU, SLURM, Docker, CI). Reproducible experiments + IEEE-format article. |
+| [Floyd-Warshall-Ray](https://github.com/mittods/Floyd-Warshall-Ray) | High-Performance Computing course | Parallel Floyd–Warshall with Ray: performance and scalability study on the Patagón HPC cluster (CPU/GPU, SLURM, Docker, CI). Reproducible experiments + IEEE-format article. |
 | [Ray-HPC](https://github.com/mittods/Ray-HPC) | High-Performance Computing course | Experimental comparison of Celery vs Ray as the execution backend of an online judge, including energy measurement (RAPL). Includes a research log of design decisions. |
-| [Rudy-Drive](https://github.com/mittods/Rudy-Drive) | Distributed Systems course (CONFIRMAR) | Distributed storage over MinIO nodes connected by WireGuard, with RabbitMQ workers and heartbeat-based node monitoring. |
+| [Rudy-Drive](https://github.com/mittods/Rudy-Drive) | Distributed Systems course | Distributed storage over MinIO nodes connected by WireGuard, with RabbitMQ workers and heartbeat-based node monitoring. |
 | [Valdiv-IA](https://github.com/mittods/Valdiv-IA-Template) | Team project, UACh (2025) | City-scale conversational assistant: RAG with local (Ollama) and hosted LLMs, Redis vector store, microservices with Docker Compose. |
 
 #### Publications (under review)
